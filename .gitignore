@@ -1,0 +1,6 @@
+package-lock.json
+node_modules
+exec.sh
+exec.ps1
+.dockerignore
+yarn.lock
